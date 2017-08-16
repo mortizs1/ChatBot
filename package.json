@@ -1,0 +1,29 @@
+{
+  "name": "electro",
+  "version": "1.0.0",
+  "description": "CallCenter inteligente",
+  "main": "HolaMundo.js",
+  "dependencies": {
+    "botbuilder": "^3.9.0",
+    "restify": "^5.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "hola"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mortizs1/ChatBot.git"
+  },
+  "keywords": [
+    "ChatBot",
+    "CallCenter",
+    "IdiomasEAFIT"
+  ],
+  "author": "Miguel Ortiz, Michell Pineda, Natalia Jaramillo",
+  "license": "Sin Licencia",
+  "bugs": {
+    "url": "https://github.com/mortizs1/ChatBot/issues"
+  },
+  "homepage": "https://github.com/mortizs1/ChatBot#readme"
+}
